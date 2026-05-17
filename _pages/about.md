@@ -24,36 +24,29 @@ Hi there! This is Libo Yan (延李波). I am currently a Ph.D. student at the Sc
 My research interests mainly focus on 3D vision, spatial intelligence, and multimodal understanding. If you are interested in collaborating with me or want to have a chat, please feel free to contact me through e-mail!
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.03*: &nbsp;🎉🎉 Our paper **LMU** was accepted by **Pattern Recognition**.
+- 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+&dagger;: equal contribution, * : corresponding author
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<hr>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<dl>
+  <dt><img align="left" width="400" src="images/paper/LMU.png" alt="LMU"></dt>
+  <dd><a class="submission-title" href="https://www.sciencedirect.com/science/article/abs/pii/S0031320326004711">Language-guided Modulation-Update for Semi-supervised Semantic Segmentation</a></dd>
+  <dd><strong>Libo Yan</strong>, Fang Liu*, Licheng Jiao, Shuo Li, Lingling Li, Jiahao Wang, Puhua Chen, Xu Liu, Xuejian Gou</dd>
+  <dd><strong>Pattern Recognition</strong>, 2026</dd>
+</dl>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<hr>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.09 - Present*, Ph.D. Student, School of Artificial Intelligence, Xidian University, Xi'an, China.
+- *2023.09 - 2025.06*, M.S. Student, School of Artificial Intelligence, Xidian University, Xi'an, China.
