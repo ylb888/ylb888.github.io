@@ -25,7 +25,6 @@ My research interests mainly focus on 3D vision, spatial intelligence, and multi
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 Our paper **LMU** was accepted by **Pattern Recognition**.
-- 
 
 # 📝 Publications 
 
